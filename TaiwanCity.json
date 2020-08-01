@@ -1,20 +1,27 @@
 [
     {
-        "name": "基隆市",
+        "name": "Keelung",
         "latlng": {
             "lat": 25.1303462,
             "lng": 121.7439138
         }
     },
     {
-        "name": "臺北市",
+        "name": "Changhua",
+        "latlng": {
+            "lat": 24.0793951,
+            "lng": 120.5323783
+        }
+    },
+    {
+        "name": "Taipei",
         "latlng": {
             "lat": 25.0375465,
             "lng": 121.562244
         }
     },
     {
-        "name": "新北市",
+        "name": "New Taipei",
         "latlng": {
             "lat": 25.0123073,
             "lng": 121.4632665
@@ -28,7 +35,7 @@
         }
     },
     {
-        "name": "宜蘭縣",
+        "name": "Yilan",
         "latlng": {
             "lat": 24.7305437,
             "lng": 121.7619899
@@ -42,7 +49,7 @@
         }
     },
     {
-        "name": "新竹縣",
+        "name": "Hsinchu",
         "latlng": {
             "lat": 24.8268841,
             "lng": 121.010715
@@ -56,56 +63,56 @@
         }
     },
     {
-        "name": "苗栗縣",
+        "name": "Miaoli",
         "latlng": {
             "lat": 24.5648599,
             "lng": 120.8185503
         }
     },
     {
-        "name": "台中市",
+        "name": "Taichung",
         "latlng": {
             "lat": 24.1892645,
             "lng": 120.6090681
         }
     },
     {
-        "name": "南投縣",
+        "name": "Nantou",
         "latlng": {
             "lat": 23.9026841,
             "lng": 120.6883151
         }
     },
     {
-        "name": "嘉義市",
+        "name": "Taitung",
         "latlng": {
-            "lat": 23.4812545,
-            "lng": 120.4514023
+            "lat": 22.7570728,
+            "lng": 121.1152767
         }
     },
     {
-        "name": "嘉義縣",
+        "name": "Chiayi",
         "latlng": {
             "lat": 23.4586677,
             "lng": 120.2907749
         }
     },
     {
-        "name": "雲林縣",
+        "name": "Yunlin",
         "latlng": {
             "lat": 23.6992351,
             "lng": 120.5241337
         }
     },
     {
-        "name": "臺南市",
+        "name": "Tainan",
         "latlng": {
             "lat": 22.9922336,
             "lng": 120.18299
         }
     },
     {
-        "name": "高雄市",
+        "name": "Kaohsiung",
         "latlng": {
             "lat": 22.62025,
             "lng": 120.3069565
@@ -133,14 +140,14 @@
         }
     },
     {
-        "name": "臺東縣",
+        "name": "Pingtungn",
         "latlng": {
             "lat": 22.7539301,
             "lng": 121.1429397
         }
     },
     {
-        "name": "花蓮縣",
+        "name": "Hualien",
         "latlng": {
             "lat": 23.9848788,
             "lng": 121.5721311
